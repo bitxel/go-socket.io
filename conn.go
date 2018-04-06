@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/googollee/go-socket.io/parser"
+	"github.com/bitxel/go-socket.io/parser"
 
 	"gopkg.in/googollee/go-engine.io.v1"
 )
